@@ -6,7 +6,7 @@
       Live Preview 
     </a>
     <span> | </span>
-    <a href="">
+    <a href="https://github.com/Osaze-ai/photo-gallery/blob/main/index.html">
       Source Code
     </a>
     </div>
