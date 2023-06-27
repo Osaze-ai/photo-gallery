@@ -9,6 +9,7 @@
     <a href="">
       Source Code
     </a>
+    </div>
 
 # Photo Gallery
 
