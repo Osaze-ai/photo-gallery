@@ -1,4 +1,4 @@
-<img width="1280" alt="Screenshot Gallery" src="./images/Screenshot.png>
+<img width="1280" alt="Screenshot Gallery" src="./images/Screenshot.png">
 
 <div align="center">
   <h3>
