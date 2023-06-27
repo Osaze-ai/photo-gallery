@@ -11,17 +11,18 @@
     </a>
     </div>
 
-# Photo Gallery
+# Responsive Photo Gallery
 
 ## Introduction
 
-"Photo Gallery" is a project where I share my love for traveling and photography. It contains images from various travel destinations that I have captured during my travels.The project is built using [Lightbox2](https://lokeshdhakar.com/projects/lightbox2/). 
+"Responsive Photo Gallery" is a project where I share my love for traveling and photography. It contains images from various travel destinations that I have captured during my travels. The project is built using [Lightbox2](https://lokeshdhakar.com/projects/lightbox2/). 
 
 ## Features
 
 ```bash
 - Overlay gallery
 - Lightbox slider
+- Responsive mode 
 - Slide left or right manually or pc arrow key press
 ```
 
