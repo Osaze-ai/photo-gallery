@@ -23,7 +23,7 @@
 - Overlay gallery
 - Lightbox slider
 - Responsive mode 
-- Slide left or right manually or pc arrow key press
+- Click images to go left or right 
 ```
 
 ## Gallery
