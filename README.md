@@ -2,8 +2,8 @@
 
 <div align="center">
   <h3>
-    <a href="" color="white">
-      Live
+    <a href="https://osaze-ai.github.io/photo-gallery/" color="white">
+      Live Preview 
     </a>
     <span> | </span>
     <a href="">
