@@ -1,0 +1,43 @@
+.wrapper h1 {
+  padding: 0;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Orbitron', sans-serif;
+  color: #ffff;
+}
+
+body {
+    position: relative;
+    overflow-x: hidden;
+    background: rgb(7, 7, 32);
+}
+
+.container{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  grid-gap: 20px;
+}
+
+img:hover{
+  opacity: .5;
+  transition: .9s;
+}
+
+/* responsive area */
+@media screen and (max-width: 1080px) {
+  .wrapper .container {
+      justify-content: center;
+  }
+
+}
+
+@media screen and (max-width: 540px) {
+  .lightbox {
+      height: 380px;
+  }
+}
